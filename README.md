@@ -2,7 +2,8 @@
 
 $14/mo Sunday lead sheet for Scripture Secrets.
 
-**Do not list on Whop without `Threshing_Floor_Brief_Zero.pdf` in the file slot.**
-Enable 30% global affiliates.
+**Fulfillment file produced:** `Threshing_Floor_Brief_Zero.pdf` (8 pages) in operator artifacts.
+Upload that binary to the Whop file slot, then enable 30% global affiliates.
+Do not create a second empty listing.
 
-Landing: deploy this repo. Fulfillment file lives in artifacts and should be uploaded to Whop by the operator (binary PDF is produced locally).
+Landing: this repo (https://threshing-floor-brief.vercel.app).
